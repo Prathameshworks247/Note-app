@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nanoid": "^5.0.7",
+    "react-split": "^2.0.14"
+  }
+}
